@@ -21,7 +21,7 @@ It demonstrates a fashion store website with a customer-facing side and an admin
 1. **Clone or Download Project**
    - Clone from GitHub:
      ```bash
-     git clone https://github.com/your-username/Veloura.git
+     git clone https://github.com/seshmiathapaththu261-hub/Veloura.git
      ```
    - Or download the ZIP and extract it.
 
@@ -76,4 +76,5 @@ It demonstrates a fashion store website with a customer-facing side and an admin
 - Student Name: AMSND Athapaththu
 - Student ID: 33767
 - Module: SE102.3 – Web-Based Application Development
+
 
