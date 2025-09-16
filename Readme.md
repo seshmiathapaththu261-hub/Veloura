@@ -71,10 +71,9 @@ It demonstrates a fashion store website with a customer-facing side and an admin
 
 ---
 
-## 📸 Screenshots
-(*Insert screenshots here after running the site locally.*)
 
 ## 👨‍💻 Author
 - Student Name: AMSND Athapaththu
 - Student ID: 33767
 - Module: SE102.3 – Web-Based Application Development
+
